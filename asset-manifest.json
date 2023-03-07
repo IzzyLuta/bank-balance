@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bank-balance/static/css/main.dfd6bf00.css",
+    "main.js": "/bank-balance/static/js/main.609b746e.js",
+    "static/js/787.40ad995c.chunk.js": "/bank-balance/static/js/787.40ad995c.chunk.js",
+    "index.html": "/bank-balance/index.html",
+    "main.dfd6bf00.css.map": "/bank-balance/static/css/main.dfd6bf00.css.map",
+    "main.609b746e.js.map": "/bank-balance/static/js/main.609b746e.js.map",
+    "787.40ad995c.chunk.js.map": "/bank-balance/static/js/787.40ad995c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfd6bf00.css",
+    "static/js/main.609b746e.js"
+  ]
+}
